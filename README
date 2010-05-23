@@ -1,4 +1,4 @@
-On the 20th of May 2010, Google announced the new Andriod platform (version 2.2, codename Froyo).
+On the 20th of May 2010, Google announced the new Android platform (version 2.2, codename Froyo).
 
 In the new SDK, there is a funny little function : ActivityManager.isUserAMonkey();
 
