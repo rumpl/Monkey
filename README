@@ -1,4 +1,4 @@
-On the 20th of May 2010, Google announced the new Adnriod platform (version 2.2, codename Froyo).
+On the 20th of May 2010, Google announced the new Andriod platform (version 2.2, codename Froyo).
 
 In the new SDK, there is a funny little function : ActivityManager.isUserAMonkey();
 
@@ -8,6 +8,7 @@ How to use the app :
 - I don't know, I don't have an android phone :)
 - I guess you just have to screw with your phone a little (touch the screen frantically).
 - If you see a message : "You did it! You're a monkey!" or "Oook!", you won.
+- I couldn't make the app show me the message in the emulator...
 
 Note for the developpers : 
 The method isUserAMonkey() throws an exception when I test it with the command : 
